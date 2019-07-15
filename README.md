@@ -1,2 +1,2 @@
 # UAP
-Message Definitions in the USSD Service Application Protocol 
+Message Definitions in the USSD Service app.Application Protocol 
